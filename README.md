@@ -35,6 +35,15 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 - Order & Profit Analysis
 - Product Performance
 
+## Pages Overview:
+![Sales Overview](/Pages/Sales Overview.png)
+
+
+![Sales Overview](/Pages/Order & Profit.png)
+
+
+![Sales Overview](/Pages/Product Performance.png)
+
 ---
 
 ## 🔗 Dataset Source:
