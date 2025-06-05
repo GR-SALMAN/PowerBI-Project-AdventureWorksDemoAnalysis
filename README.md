@@ -8,6 +8,7 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 ---
 
 ## 🎯 Key Highlights
+
 - ✅ Multi-year revenue & profit trends
 - ✅ Product & category-level performance tracking
 - ✅ Regional and customer-based order analysis
@@ -19,11 +20,13 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 ## 🛠️ Technologies Used
 
 ### 🔹 Code-Based Tools:
+
 - DAX
 - SQL
 - Power Query (M)
 
 ### 🔹 Software & Platforms:
+
 - Power BI
 - SSMS (SQL Server Management Studio)
 - Power BI Service
@@ -31,20 +34,21 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 ---
 
 ## 📁 Pages Included:
+
 - Sales Overview
 - Order & Profit Analysis
 - Product Performance
 
 ## Pages Overview:
-![Sales Overview](/Pages/SalesOverview.png)
 
+![Sales Overview](/Pages/1-SalesOverview.png)
 
-![Sales Overview](/Pages/Order&Profit.png)
+![Sales Overview](/Pages/2-Order&Profit.png)
 
-
-![Sales Overview](/Pages/ProductPerformance.png)
+![Sales Overview](/Pages/3-ProductPerformance.png)
 
 ---
 
 ## 🔗 Dataset Source:
+
 [Microsoft's official Power BI sample repository](https://github.com/microsoft/powerbi-desktop-samples/tree/main/DAX)
