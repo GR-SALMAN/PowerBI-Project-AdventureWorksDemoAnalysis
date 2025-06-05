@@ -43,9 +43,9 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 
 ![Sales Overview](/Pages/1-SalesOverview.png)
 
-![Sales Overview](/Pages/2-Order&Profit.png)
+![Sales Overview](/Pages/2-Order&Profit.jpg)
 
-![Sales Overview](/Pages/3-ProductPerformance.png)
+![Sales Overview](/Pages/3-ProductPerformance.jpg)
 
 ---
 
