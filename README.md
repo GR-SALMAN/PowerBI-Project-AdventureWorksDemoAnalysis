@@ -1,4 +1,4 @@
-# 🚀 AdventureWorks: Sales and Product Performance Analysis Demo
+# 🚀 AdventureWorks: Sales and Product Performance Analysis
 
 ## 📊 Power BI Sales & Product Performance Dashboard
 
@@ -14,6 +14,7 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 - ✅ Regional and customer-based order analysis
 - ✅ Inventory insights with stock availability
 - ✅ Clean layout, slicers, and drill-down interactions
+- ✅ Modified to near real time update refreshes daily through SQL (Updated)
 
 ---
 
@@ -30,6 +31,7 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 - Power BI
 - SSMS (SQL Server Management Studio)
 - Power BI Service
+- On-premise gateway
 
 ---
 
