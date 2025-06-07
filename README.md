@@ -6,6 +6,17 @@ This 3-page dashboard provides deep business insights with interactive visuals a
 From raw data to clean visuals, every step was handled — data extraction, modeling, transformation, and visualization.
 
 ---
+## Pages Overview:
+
+![Sales Overview](/Pages/1-SalesOverview.png)
+
+![Product Performance](Pages/2-ProductPerformance.jpg)
+
+![Order & Profit](/Pages/3-Order&Profit.jpg)
+
+---
+
+
 
 ## 🎯 Key Highlights
 
@@ -41,15 +52,7 @@ From raw data to clean visuals, every step was handled — data extraction, mode
 - Order & Profit Analysis
 - Product Performance
 
-## Pages Overview:
 
-![Sales Overview](/Pages/1-SalesOverview.png)
-
-![Product Performance](Pages/2-ProductPerformance.jpg)
-
-![Order & Profit](/Pages/3-Order&Profit.jpg)
-
----
 
 ## 🔗 Dataset Source:
 
